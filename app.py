@@ -209,7 +209,7 @@ def create_combined_chart(temp_df, hum_df, uv_df):
 
 # Configuración de la página
 st.set_page_config(
-    page_title="🌿 Koru - Jardín Inteligente",
+    page_title="🌿 Verdana - Jardín Inteligente",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -256,7 +256,7 @@ st.markdown("""
 # Header principal
 st.markdown("""
 <div class="main-header">
-    <h1>🌿 Koru - Jardín Inteligente</h1>
+    <h1>🌿 Verdana - Jardín Inteligente</h1>
     <p>Sistema de monitoreo avanzado para microcultivos urbanos</p>
     <p><em>Cuidando tu jardín con tecnología IoT</em></p>
 </div>
