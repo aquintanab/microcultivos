@@ -432,7 +432,7 @@ with st.expander("🔍 Ver datos crudos"):
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; padding: 1rem;">
-    <p>🌱 <strong>Koru Jardín Inteligente</strong> - Tecnología IoT para el cuidado sostenible</p>
+    <p>🌱 <strong>Verdana Jardín Inteligente</strong> - Tecnología IoT para el cuidado sostenible</p>
     <p>Última actualización: {}</p>
 </div>
 """.format(datetime.now().strftime("%Y-%m-%d %H:%M:%S")), unsafe_allow_html=True)
